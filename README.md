@@ -1,6 +1,6 @@
 # ⋆｡°✩ reddit-user-comment-api ✩°｡⋆  
 
-Ever needed to ~~cyberstalk someone at 3am~~ dig through someone's reddit comments, then tear at the lack of search options? I bestow upon you *filters* and *search* and **power**. Not revolutionary in the slightest but nonetheless helpful (i hope?)
+Ever needed to ~~cyberstalk someone at 3am~~ dig through someone's reddit comments, then proceed to tear up at the lack of search options? I bestow upon you *filters* and *search* and **power**. Not revolutionary in the slightest but nonetheless helpful (i hope?)
 
 Is it RESTful?  
 kinda  
@@ -10,7 +10,7 @@ does it work?
 Surprisingly, yes... well at least i think so.
 
 𓆩♡𓆪 **anyway heres the link have fun :3** 𓆩♡𓆪   
-[vercel link here lol]
+https://funny-reddit-comment-api.vercel.app/  
 
 ---
 
@@ -56,4 +56,4 @@ Surprisingly, yes... well at least i think so.
 ## ✧ License
 
 **MIT License**  
-if anyone cares owo
+if it matters ^-^
